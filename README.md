@@ -1,11 +1,13 @@
 # ☕ Hello, I'm CoolLoong 🐉
 
-<a href="https://github.com/CoolLoong">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" width="66px"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=CoolLoong">
-  <img src="https://komarev.com/ghpvc/?username=CoolLoong" alt="Profile Views" width="95px"/>
-</a>
+<div>
+  <a href="https://github.com/CoolLoong">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=CoolLoong">
+    <img src="https://komarev.com/ghpvc/?username=CoolLoong&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  </a>
+</div>
 
 ## 🚀 About Me
 
@@ -17,8 +19,11 @@
 
 ## 📊 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/?username=CoolLoong&show_icons=true&bg_color=0d1117&title_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Statistics&text_color=b1b1b1)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolLoong&langs_count=6&show_icons=true&bg_color=0d1117&title_color=b1b1b1&text_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Languages&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolLoong&langs_count=6&show_icons=true&bg_color=0d1117&title_color=b1b1b1&text_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Languages&layout=compact" alt="Top Languages"/>
+  <p/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=CoolLoong&show_icons=true&bg_color=0d1117&title_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Statistics&text_color=b1b1b1" alt="GitHub Stats"/>
+</div>
 
 ## 🛠️ My Skills
 
