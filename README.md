@@ -20,9 +20,15 @@
 ## 📊 My GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolLoong&langs_count=6&show_icons=true&bg_color=0d1117&title_color=b1b1b1&text_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Languages&layout=compact" alt="Top Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CoolLoong&langs_count=6&show_icons=true&bg_color=0d1117&title_color=b1b1b1&text_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Languages&layout=compact"
+    alt="Top Languages"
+  />
   <p/>
-  <img src="https://github-readme-stats.vercel.app/api/?username=CoolLoong&show_icons=true&bg_color=0d1117&title_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Statistics&text_color=b1b1b1" alt="GitHub Stats"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/?username=CoolLoong&show_icons=true&bg_color=0d1117&title_color=b1b1b1&icon_color=1F6FEB&ring_color=58A6FF&hide_border=true&custom_title=Statistics&text_color=b1b1b1"
+    alt="GitHub Stats"
+  />
 </div>
 
 ## 🛠️ My Skills
