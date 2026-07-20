@@ -39,6 +39,6 @@
 
 | Software                                                                        | Operating Systems                                            |
 |---------------------------------------------------------------------------------|--------------------------------------------------------------|
-| ![](https://skillicons.dev/icons?i=idea,vscode,github,docker,postman&perline=7) | ![](https://skillicons.dev/icons?i=windows,debian&perline=4) |
+| ![](https://skillicons.dev/icons?i=idea,vscode,github,docker,postman&perline=7) | ![](https://skillicons.dev/icons?i=linux,apple,windows&perline=4) |
 
 ---
